@@ -1,0 +1,1 @@
+{'Ville de départ': 'rabat', 'Ville d arrivée': 'beni mellal', 'Date ': '1/2/2024', 'Prix': 120.0, 'Type': 'simple', 'statut': True}

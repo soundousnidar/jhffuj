@@ -1,0 +1,1 @@
+{'Ref_réservation': '1', 'Type_Offre': 'transport aller retour', 'Ref_Offre': '4', 'Date_depart': '3/5/2024', 'Date_retour': '0/0/0', 'Genre': 'femme', 'Nom': 'sundous', 'Prénom': 'nidar', 'Pays_Nationalité': 'marocainne', 'numPasseport': '123', 'Etat_Reservation': 'confirmée', 'Total_A_Payer': 6300.0, 'Type': 'reservation '}
